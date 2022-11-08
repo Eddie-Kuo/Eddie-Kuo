@@ -7,7 +7,7 @@
 I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
 - 💭 I’m currently working on my mental health + daily self-improvement.
 - 📚 I’m currently learning SQL & Express.
-- 🧑‍🤝‍🧑 I’m looking forward to collaborate on Mobile Development.
+- 🧑‍🤝‍🧑 I’m looking forward to collaborate on Mobile Development Projects.
 - 🎯 2022 Goals: Learn React Native, Typescript & spread kindness through kindness.
 
 #### 📌 Tech Stack
