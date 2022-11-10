@@ -23,15 +23,14 @@ I'm a Full Stack Software Engineer who is passionate about making people's lives
 ![React](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
 ![postgres](https://img.shields.io/badge/postgres-05122A?&style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)
+![Jest.js](https://img.shields.io/badge/-Jest.js-05122A?style=flat&logo=jest.js)
 
 - 🛠️ Tools : <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
-
-
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 
 
