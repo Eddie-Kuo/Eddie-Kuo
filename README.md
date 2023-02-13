@@ -6,7 +6,7 @@
 
 I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
 - 💭 I’m currently working on my mental health + daily self-improvement.
-- 📚 I’m currently building out my first full-stack mobile app!!
+- 📚 I’m currently building out my full-stack mobile app Ciao.
 - 🧑‍🤝‍🧑 I’m looking forward to collaborate on Mobile Development Projects.
 - 🎯 2023 Goals: Learn Swift, Typescript & spread kindness through kindness.
 
