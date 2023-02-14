@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
 I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
-- 💭 I’m currently working on my mental health + daily self-improvement.
+- 💭 I’m currently working on my mental health + time management practices.
 - 📚 I’m currently building out my full-stack mobile app Ciao.
 - 🧑‍🤝‍🧑 I’m looking forward to collaborate on Mobile Development Projects.
 - 🎯 2023 Goals: Learn Swift, Typescript & spread kindness through kindness.
