@@ -5,17 +5,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
 I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
-- 💭 I’m currently working on my mental health + time management practices.
-- 📚 I’m currently grinding out DS&A.
-- 🧑‍🤝‍🧑 I’m looking forward to collaborate on Mobile Development Projects.
-- 🎯 2023 Goals: Learn Swift, Typescript & spread kindness through kindness.
+- 💭 I’m currently working on publishing my first mobile app on the App Store 
+- 📚 I’m currently learning Typescript + Data Structures & Algorithms
+- 🧑‍🤝‍🧑 I’m looking forward to collaborate on Fullstack projects and experimenting with new technologies.
+- 🎯 2023 Goals: To be more present 
 
 #### 📌 Tech Stack
 
 - 👨‍💻 Programming languages : <br />
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL%20-05122A?logo=amazon-dynamodb&logoColor=white)
 
 - 💻 Technologies : <br />
