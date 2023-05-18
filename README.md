@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
 I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
-- 💭 I’m currently working on publishing my first mobile app on the App Store 
+- 💭 I’m currently working on a recreation of Netflix 
 - 📚 I’m currently learning Typescript + Data Structures & Algorithms
 - 🧑‍🤝‍🧑 I’m looking forward to collaborate on Fullstack projects and experimenting with new technologies.
 - 🎯 2023 Goals: To be more present 
