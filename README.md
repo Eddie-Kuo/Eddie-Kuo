@@ -4,8 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@the_eddiekuo-teal?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/the_eddiekuo/)](https://www.instagram.com/the_eddiekuo/)
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
-I'm a Full Stack Software Engineer who is passionate about making people's lives easier one line of code at a time 🤓
-- 💭 I’m currently working on a recreation of Netflix 
+I'm a Full-stack Software Engineer with a passion in creating impactful applications for the everyday consumer. I enjoy working in diverse teams to implement and optimize solutions to complex problems 🤓
+- 💭 I’m currently working on implementing Ai functionality into my current apps
 - 📚 I’m currently learning Typescript + Data Structures & Algorithms
 - 🧑‍🤝‍🧑 I’m looking forward to collaborate on Fullstack projects and experimenting with new technologies.
 - 🎯 2023 Goals: To be more present 
