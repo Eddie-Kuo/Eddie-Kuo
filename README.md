@@ -21,12 +21,12 @@ I'm a Full-stack Software Engineer with a passion in creating impactful applicat
 
 - 💻 Technologies : <br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
 ![postgres](https://img.shields.io/badge/postgres-05122A?&style=flat&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
 
 - 🛠️ Tools : <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
