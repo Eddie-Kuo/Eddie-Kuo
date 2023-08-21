@@ -7,8 +7,8 @@
 I'm a Full-stack Software Engineer with a passion in creating impactful applications for the everyday consumer. I enjoy working in diverse teams to implement and optimize solutions to complex problems 🤓
 - 💭 I’m currently working on an AI multi-functional generator Saas application.
 - 📚 I’m currently learning Typescript + Data Structures & Algorithms.
-- 🧑‍🤝‍🧑 I’m looking forward to landing my first role as a software engineer.
-- 🎯 2023 Goals: To be more present, worry less, trust the process.
+- 🧑‍🤝‍🧑 I’m looking forward to collaborate on new projects utilizing new technologies.
+- 🎯 2023 Goals: Be present, be kind, be humble.
 
 #### 📌 Tech Stack
 
