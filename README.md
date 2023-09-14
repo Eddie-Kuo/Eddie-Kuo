@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
 I'm a Full-stack Software Engineer with a passion in creating impactful applications for the everyday consumer. I enjoy working in diverse teams to implement and optimize solutions to complex problems 🤓
-- 💭 I’m currently working on an AI multi-functional generator Saas application.
+- 💭 I’m currently working on an AI course roadmap generator.
 - 📚 I’m currently learning Typescript + Data Structures & Algorithms.
 - 🧑‍🤝‍🧑 I’m looking forward to collaborate on new projects & exploring new technologies.
 - 🎯 2023 Goals: Be present, be kind, be humble.
