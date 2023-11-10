@@ -7,7 +7,7 @@
 I'm a Full-stack Software Engineer with a passion in creating impactful applications for the everyday consumer. I enjoy working in diverse teams to implement and optimize solutions to complex problems 🤓
 - 💭 I’m currently working on an AI course roadmap generator.
 - 📚 I’m currently learning Typescript + Data Structures & Algorithms.
-- 🧑‍🤝‍🧑 I’m looking forward to collaborate on new projects & exploring new technologies.
+- 🧑‍🤝‍🧑 I’m looking forward to deploying my first app on the App Store!
 - 🎯 2023 Goals: Be present, be kind, be humble.
 
 #### 📌 Tech Stack
