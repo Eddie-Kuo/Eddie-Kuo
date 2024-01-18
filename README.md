@@ -4,9 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-@the_eddiekuo-teal?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/the_eddiekuo/)](https://www.instagram.com/the_eddiekuo/)
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
-I'm a Full-stack Software Engineer with a passion in creating impactful applications for the everyday consumer. I enjoy working in diverse teams to implement and optimize solutions to complex problems 🤓
+I'm a Full-stack Software Engineer with a target specialty in mobile development. I enjoy working in diverse teams to implement and optimize solutions to complex problems the daily consumer may face, creating impactful user-focused applications with the goal of simplfying people's lives one line of code at a time 🤓
 
-#### 📌 Tech Stack
+- 💭 I'm currently working on a mobile chatting app with realtime message translations using AI. (Developing for my mom 💖)
+- 📚 I’m currently reading ***So Good They Can't Ignore You*** - Cal Newport
+- 🎯 2024 Word of the Year: **Precision**
+
+## 📌 Tech Stack
 
 - 👨‍💻 Programming languages : <br />
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)
