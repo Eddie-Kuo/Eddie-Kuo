@@ -12,28 +12,19 @@ I'm a Full-stack Software Engineer with a target specialty in mobile development
 
 ## 📌 Tech Stack
 
-- 👨‍💻 Programming languages : <br />
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![SQL](https://img.shields.io/badge/SQL%20-05122A?logo=amazon-dynamodb&logoColor=white)
-
-- 💻 Technologies : <br />
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
-![postgres](https://img.shields.io/badge/postgres-05122A?&style=flat&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-
-- 🛠️ Tools : <br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)
+<div justify="center" >
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
+</div>
 
 
 
