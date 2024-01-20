@@ -6,7 +6,7 @@
 
 I'm a Full-stack Software Engineer with a target specialty in mobile development. I enjoy working in diverse teams to implement and optimize solutions to complex problems the daily consumer may face, creating impactful user-focused applications with the goal of simplfying people's lives one line of code at a time 🤓
 
-- 💭 I'm currently working on a mobile chatting app with realtime message translations using AI. (Developing for my mom 💖)
+- 💭 I'm currently working on a mobile chatting app with realtime message translations using AI
 - 📚 I’m currently reading ***So Good They Can't Ignore You*** - Cal Newport
 - 🎯 2024 Word of the Year: **Precision**
 
