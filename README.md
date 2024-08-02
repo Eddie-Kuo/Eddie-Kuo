@@ -9,7 +9,7 @@ I'm a Full-stack Software Engineer with a specialty for mobile development. I en
 - 💭 I'm currently working on a course & roadmap generation app with AI
 - 📚 I’m currently reading ***So Good They Can't Ignore You*** - Cal Newport
 - 🎯 2024 Word of the Year: **Precision**
-- 💬 Quote of the year: ***“When opportunity meets well preparation, that’s the “luck" you created for yourself”***
+- 💬 Quote of the year: ***“When opportunity meets well preparation, that’s the “luck" you've manufactured for yourself”***
 
 ## 📌 Tech Stack
 
