@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@the_eddiekuo-teal?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/the_eddiekuo/)](https://www.instagram.com/the_eddiekuo/)
 [![Gmail Badge](https://img.shields.io/badge/-eddiekuo97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eddiekuo97@gmail.com)](mailto:eddiekuo97@gmail.com)
 
-I'm a Full-stack Software Engineer with a specialty for mobile development. I enjoy working in diverse teams on implementing and optimizing solutions to complex problems the daily consumer may face, creating impactful user-focused applications with the goal of simplfying people's lives one line of code at a time 🤓
+Full stack software engineer specializing in web dev, cross platform dev and backend infrastructure. With a diverse range of practical experience across startups and enterprise environments, I'm always ready to tackle challenges head-on in building scalable, user-focused solutions.
 
 - 💭 I'm currently working on a course & roadmap generation app with AI
 - 📚 I’m currently reading ***So Good They Can't Ignore You*** - Cal Newport
